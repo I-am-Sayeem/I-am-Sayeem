@@ -50,7 +50,7 @@
 | Job & Hiring Management System | Desktop-based recruitment system | Java (Swing), MySQL |
 | Warehouse Robot Picker Simulation | Robot picking & path simulation | Python |
 | Job Portal Management System | Full stack job portal | Laravel (PHP), HTML, CSS, JS, MySQL |
-| Thermal Cooling Jacket | Smart wearable cooling hardware | Arduino IDE |
+| Thermal Cooling Jacket | Smart wearable cooling jacket | Arduino IDE |
 
 ---
 
