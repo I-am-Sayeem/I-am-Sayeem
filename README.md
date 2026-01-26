@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Notable Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
