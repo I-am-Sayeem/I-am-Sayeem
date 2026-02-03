@@ -15,30 +15,10 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+- 🔗 **[Assignment Cover Page Maker]( https://i-am-sayeem.github.io/Assignment-Cover-maker/)** — Automatically generates professional assignment cover pages based on user input.
 
-### 🌐 Web & Styling
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-
-### ⚙ Frameworks & Tools
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino)
 
 ---
 
@@ -53,7 +33,6 @@
 | Thermal Cooling Jacket | Smart wearable cooling jacket | Arduino IDE |
 
 ---
-
 
 ## 🐍 Contribution Snake Animation
 
