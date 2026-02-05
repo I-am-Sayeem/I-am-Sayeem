@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Optimized for PC view)
 
 - 🔗 **[Assignment Cover Page Maker]( https://i-am-sayeem.github.io/Assignment-Cover-maker/)** — Automatically generates professional assignment cover pages based on user input.
 
