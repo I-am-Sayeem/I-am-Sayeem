@@ -18,6 +18,7 @@
 ## 🚀 Featured Projects (Optimized for PC view)
 
 - 🔗 **[Assignment Cover Page Maker]( https://i-am-sayeem.github.io/Assignment-Cover-maker/)** — Automatically generates professional assignment cover pages based on user input.
+- 🔗 **[C to MIPS Converter]( https://c-to-mips-converter.vercel.app/)** — A powerful tool to convert C code into MIPS assembly language, supporting loops, arrays, functions, and complex expressions.
 
 
 ---
