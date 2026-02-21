@@ -15,9 +15,9 @@
 
 ---
 
-## 🚀 Featured Projects (Optimized for PC view)
+## 🚀 Featured Projects
 
-- 🔗 **[Assignment Cover Page Maker]( https://i-am-sayeem.github.io/Assignment-Cover-maker/)** — Automatically generates professional assignment cover pages based on user input.
+- 🔗 **[Assignment Cover Page Maker]( https://i-am-sayeem.github.io/Assignment-Cover-maker/)** — Automatically generates professional assignment cover pages based on user input.(Optimized for PC view)
 - 🔗 **[C to MIPS Converter]( https://c-to-mips-converter.vercel.app/)** — A powerful tool to convert C code into MIPS assembly language, supporting loops, arrays, functions, and complex expressions.
 - 🔗 **[Section Selection Tool](https://section-selection-helper.pages.dev/)** — A smart schedule builder that lets you upload course offerings (.xlsx), select sections with automatic conflict detection, preview your weekly timetable live, and export the final schedule as CSV or PDF.
 
