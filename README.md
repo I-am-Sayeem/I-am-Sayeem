@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student at **United International University**
-- 🎥 Founder of **Ghore Sikho** (CS education on YouTube)
+- 🎥 Founder of "Ghore Sikho" — a YouTube channel dedicated to providing free computer science education.
 - 💡 Passionate about Algorithms, Databases, and Software Engineering
 - 🤝 Open to collaboration & knowledge sharing
 
