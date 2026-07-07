@@ -9,7 +9,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student at **United International University**
-- 🎥 Founder of "Ghore Sikho" — a YouTube channel dedicated to providing free computer science education.
 - 💡 Passionate about Algorithms, Databases, and Software Engineering
 - 🤝 Open to collaboration & knowledge sharing
 
@@ -37,20 +36,12 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.youtube.com/@Ghore_Sikho"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/></a>
 <a href="https://www.linkedin.com/in/sayeem-mahmood"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
